@@ -13,13 +13,11 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 1
-gutenburg.org
-*Link from school project
-*Slightly Dated
-The colours used and the layout
-*could also be prectical
-Many links and simple format makes a simple and clean design
-*good navigation
+gutenburg.org<br>
+Link from school project<br>
+Slightly Dated:  The colours used and the layout<br>
+Could also be practical: Many links and simple format makes a simple and clean design<br>
+good navigation<br>
 search bar
 organizes and uses popular things like catigories and genres to help make navigation easier
 *has donationlink, change langage buttons, many links to lead to new pages on site
